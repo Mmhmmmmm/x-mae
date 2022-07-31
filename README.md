@@ -1,2 +1,2 @@
-# x-mae
+# x-maes
 MAE 拓展
